@@ -298,7 +298,7 @@ When combined with privileges, permissions define a user's or resource's overall
 [discrete]
 [[popup]]
 ==== image:images/yes.png[yes] pop-up (noun)
-*Description*: A "pop-up" is a graphical user interface (GUI) display area, usually a small window, that is suddenly displayed in the foreground of the visual interface. Pop-ups can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A pop-up window must be smaller than the background window or interface; otherwise, it's a replacement interface.
+*Description*: A "pop-up" is a graphical user interface (GUI) display area, usually a small window, that is suddenly displayed in the foreground of the visual interface. Pop-ups can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A pop-up window must be smaller than the background window or interface; otherwise, it is a replacement interface.
 
 *Use it*: yes
 
